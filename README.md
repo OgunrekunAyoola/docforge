@@ -8,7 +8,7 @@ A production-grade document transformation API built in Rust. Upload architectur
 
 ## Demo
 
-![Docforge dashboard showing job list with completed status](https://placehold.co/800x400/18181b/8b5cf6?text=Dashboard+Screenshot)
+![Docforge job tracker showing completed transformation](docs/screenshots/Screenshot%202026-05-17%20141707.png)
 
 **Flow:** Register → Create job → Upload docs → Watch live status → View AI-transformed result
 
