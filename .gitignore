@@ -1,0 +1,9 @@
+target/
+.env
+.env.local
+frontend/.env.local
+.sqlx/
+*.pdb
+Cargo.lock
+sample-docs/
+node_modules/
